@@ -1,0 +1,27 @@
+{
+    "name": "zedix/geocoder",
+    "description": "Geocoding addresses to coordinates",
+    "homepage": "https://github.com/zedix/geocoder",
+    "keywords":
+        [
+            "geocoding",
+            "laravel"
+        ],
+    "license": "MIT",
+    "require": {
+        "php": "^7.2",
+        "illuminate/support": "^5.0|^6.0",
+        "guzzlehttp/guzzle": "~6.0"
+
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^8.0",
+        "vlucas/phpdotenv": "^3.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Zedix\\Geocoder\\": "src"
+        }
+    },
+    "minimum-stability": "stable",
+}
