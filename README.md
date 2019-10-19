@@ -1,7 +1,8 @@
-# @zedix/geocooder
+# @zedix/geocoder
 
-![version](https://img.shields.io/github/package-json/v/zedix/geocoder.svg?maxAge=60)
+[![version](https://img.shields.io/github/release/zedix/geocoder.svg?style=flat-square)](https://github.com/zedix/geocoder/releases)
 ![tag](https://img.shields.io/github/tag/zedix/geocoder.svg?maxAge=60)
+[![downloads](https://img.shields.io/packagist/dt/zedix/geocoder.svg?style=flat-square)](https://packagist.org/packages/zedix/geocoder)
 
 ## Usage
 
