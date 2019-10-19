@@ -1,6 +1,6 @@
 {
     "name": "zedix/geocoder",
-    "description": "Geocoding addresses to coordinates",
+    "description": "Geocoding addresses using Laravel and Google Geocode API",
     "homepage": "https://github.com/zedix/geocoder",
     "keywords":
         [
@@ -12,7 +12,6 @@
         "php": "^7.2",
         "illuminate/support": "^5.0|^6.0",
         "guzzlehttp/guzzle": "~6.0"
-
     },
     "require-dev": {
         "phpunit/phpunit": "^8.0",
@@ -23,5 +22,5 @@
             "Zedix\\Geocoder\\": "src"
         }
     },
-    "minimum-stability": "stable",
+    "minimum-stability": "stable"
 }
